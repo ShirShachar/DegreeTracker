@@ -1,0 +1,230 @@
+{
+    "total_credits_required": 120,
+    "prerequisites": {
+        "Calculus I": {
+            "course_code": "MATH UN1101",
+            "credits": 3
+        }
+    },
+    "math_requirements": {
+        "Calculus III / Multivariable Calculus": {
+            "options": [
+                {
+                    "course_code": "MATH UN1201",
+                    "course_name": "Calculus III",
+                    "credits": 3
+                },
+                {
+                    "course_code": "MATH UN1205",
+                    "course_name": "Accelerated Multivariable Calculus",
+                    "credits": 3
+                },
+                {
+                    "course_code": "APMA E2000",
+                    "course_name": "Multivariable Calculus for Engineers and Applied Scientists",
+                    "credits": 3
+                }
+            ]
+        },
+        "Linear Algebra": {
+            "options": [
+                {
+                    "course_code": "COMS W3251",
+                    "course_name": "Computational Linear Algebra",
+                    "credits": 3
+                },
+                {
+                    "course_code": "MATH UN2010",
+                    "course_name": "Linear Algebra",
+                    "credits": 3
+                },
+                {
+                    "course_code": "MATH UN2015",
+                    "course_name": "Linear Algebra and Probability",
+                    "credits": 3
+                },
+                {
+                    "course_code": "APMA E2101",
+                    "course_name": "Introduction to Applied Mathematics",
+                    "credits": 3
+                },
+                {
+                    "course_code": "APMA E3101",
+                    "course_name": "Applied Math I: Linear Algebra",
+                    "credits": 3
+                }
+            ]
+        },
+        "Probability": {
+            "options": [
+                {
+                    "course_code": "STAT UN1201",
+                    "course_name": "Calculus-Based Introduction to Statistics",
+                    "credits": 3
+                },
+                {
+                    "course_code": "STAT GU4001",
+                    "course_name": "Introduction to Probability and Statistics",
+                    "credits": 3
+                },
+                {
+                    "course_code": "STAT GU4203",
+                    "course_name": "Probability Theory",
+                    "credits": 3
+                },
+                {
+                    "course_code": "IEOR E3658",
+                    "course_name": "Probability for Engineers",
+                    "credits": 3
+                },
+                {
+                    "course_code": "MATH UN2015",
+                    "course_name": "Linear Algebra and Probability",
+                    "credits": 3
+                }
+            ]
+        }
+    },
+    "cs_core": [
+        {
+            "course_code": "COMS W1004",
+            "course_name": "Introduction to Computer Science and Programming in Java",
+            "credits": 3
+        },
+        {
+            "course_code": "COMS W3134",
+            "course_name": "Data Structures in Java",
+            "credits": 3
+        },
+        {
+            "course_code": "COMS W3157",
+            "course_name": "Advanced Programming",
+            "credits": 4
+        },
+        {
+            "course_code": "COMS W3203",
+            "course_name": "Discrete Mathematics",
+            "credits": 4
+        },
+        {
+            "course_code": "COMS W3261",
+            "course_name": "Computer Science Theory",
+            "credits": 3
+        },
+        {
+            "course_code": "CSEE W3827",
+            "course_name": "Fundamentals of Computer Systems",
+            "credits": 3
+        }
+    ],
+    "area_foundation_courses": [
+        {
+            "course_code": "COMS W4111",
+            "course_name": "Introduction to Databases",
+            "credits": 3
+        },
+        {
+            "course_code": "COMS W4113",
+            "course_name": "Distributed Systems Fundamentals",
+            "credits": 3
+        },
+        {
+            "course_code": "COMS W4115",
+            "course_name": "Programming Languages and Translators",
+            "credits": 3
+        },
+        {
+            "course_code": "COMS W4118",
+            "course_name": "Operating Systems",
+            "credits": 3
+        },
+        {
+            "course_code": "CSEE W4119",
+            "course_name": "Computer Networks",
+            "credits": 3
+        },
+        {
+            "course_code": "COMS W4152",
+            "course_name": "Engineering Software-as-a-Service",
+            "credits": 3
+        },
+        {
+            "course_code": "COMS W4156",
+            "course_name": "Software Engineering",
+            "credits": 3
+        },
+        {
+            "course_code": "COMS W4160",
+            "course_name": "Computer Graphics",
+            "credits": 3
+        },
+        {
+            "course_code": "COMS W4167",
+            "course_name": "Computer Animation",
+            "credits": 3
+        },
+        {
+            "course_code": "COMS W4170",
+            "course_name": "User Interface Design",
+            "credits": 3
+        },
+        {
+            "course_code": "COMS W4181",
+            "course_name": "Security I",
+            "credits": 3
+        },
+        {
+            "course_code": "CSOR W4231",
+            "course_name": "Analysis of Algorithms",
+            "credits": 3
+        },
+        {
+            "course_code": "COMS W4236",
+            "course_name": "Introduction to Computational Complexity",
+            "credits": 3
+        },
+        {
+            "course_code": "COMS W4701",
+            "course_name": "Artificial Intelligence",
+            "credits": 3
+        },
+        {
+            "course_code": "COMS W4705",
+            "course_name": "Natural Language Processing",
+            "credits": 3
+        },
+        {
+            "course_code": "COMS W4731",
+            "course_name": "Computer Vision",
+            "credits": 3
+        },
+        {
+            "course_code": "COMS W4733",
+            "course_name": "Computational Aspects of Robotics",
+            "credits": 3
+        },
+        {
+            "course_code": "CBMF W4761",
+            "course_name": "Computational Genomics",
+            "credits": 3
+        },
+        {
+            "course_code": "COMS W4771",
+            "course_name": "Machine Learning",
+            "credits": 3
+        },
+        {
+            "course_code": "CSEE W4824",
+            "course_name": "Computer Architecture",
+            "credits": 3
+        },
+        {
+            "course_code": "CSEE W4868",
+            "course_name": "System-on-Chip Platforms",
+            "credits": 3
+        }
+    ],
+    "cs_electives": {
+        "description": "Three COMS courses or jointly listed CS courses at the: :contentReference[oaicite: 2
+    ]{index=2
+    }
